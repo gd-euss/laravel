@@ -30,7 +30,6 @@
                     <h4 class="list-group-item-heading">First Category</h4>
                     <p class="list-group-item-text">Count of posts</p>
                 </a>
-
             </div>
             <div class="col-sm-6">
                 <a href="#" class="btn btn-block btn-default">Add Post</a>
@@ -38,7 +37,6 @@
                     <h4 class="list-group-item-heading">First post</h4>
                     <p class="list-group-item-text">Category</p>
                 </a>
-
             </div>
         </div>
     </div>
